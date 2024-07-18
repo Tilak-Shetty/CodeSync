@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Sync - A Realtime Code Editor
 
 ![Preview Image](./preview.png)
@@ -174,3 +175,6 @@ Also, huge gratitude to Tldraw contributors for their amazing library. For more 
     </tr>
   </tbody>
 </table>
+=======
+# Hire-Vue
+>>>>>>> d97da42cca90416054a34a3df2543c5614b825eb
