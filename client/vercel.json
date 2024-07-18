@@ -1,12 +1,12 @@
 {
-    "builds": [
+    "vercel-build": [
       {
         "src": "client/package.json",
         "use": "@vercel/static-build",
         "config": { "distDir": "build" }
       },
       {
-        "src": "server/**/*",
+        "src": "server/package.json",
         "use": "@vercel/node"
       }
     ],
